@@ -1,32 +1,45 @@
-# Axioms
+# Candidate Axioms
 
-## Axiom I — Engineering State
+Status: Pre-Theory
 
-Every engineering project exists in an Engineering State.
+The following axioms are candidates.
 
----
-
-## Axiom II — Engineering Transition
-
-Engineering is the process of transforming one Engineering State into another.
+They are subject to continuous engineering validation.
 
 ---
 
-## Axiom III — Evidence
+## Candidate Axiom I
 
-Every Engineering Transition shall produce Engineering Evidence.
-
-Without evidence, no Engineering Transition can be considered verified.
+Engineering knowledge exists.
 
 ---
 
-## Axiom IV — Reproducibility
+## Candidate Axiom II
 
-An Engineering Transition is considered valid only if it can be independently reproduced.
+Engineering knowledge can be represented.
 
 ---
 
-## Axiom V — Continuous Improvement
+## Candidate Axiom III
 
-A valid Engineering Transition increases engineering knowledge, project quality or project reliability.
+Engineering knowledge can change.
 
+---
+
+## Candidate Axiom IV
+
+Engineering knowledge can be verified.
+
+---
+
+## Candidate Axiom V
+
+Engineering knowledge can be reproduced.
+
+---
+
+## Note
+
+These axioms are provisional.
+
+They become Foundation Axioms only after ARTEM reaches the status of a Validated Theory.
