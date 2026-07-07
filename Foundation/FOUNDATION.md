@@ -1,65 +1,57 @@
 # ARTEM Foundation
 
-Status: Pre-Theory
+**Status:** Pre-Theory
 
-Revision: 1
-
----
-
-## Preamble
+**Revision:** 1
 
 ---
 
-## Purpose
+# Purpose
+
+The ARTEM Foundation defines the immutable engineering core of ARTEM.
+
+It contains the principles, definitions, laws and concepts that describe the Pre-Theory of Reproducible Engineering.
+
+The Foundation changes only after independent engineering validation.
 
 ---
 
-## Philosophy
+# Structure
+
+1. Preamble
+2. Philosophy
+3. Definition
+4. Axioms
+5. Laws
+6. Fundamental Entities
+7. Governance
+8. Discovery
+9. Identity
+10. Evolution
 
 ---
 
-## Definition
+# Current Status
+
+ARTEM is currently a **Pre-Theory**.
+
+It does not claim to be a validated engineering theory.
+
+Its concepts are continuously tested through real engineering practice.
 
 ---
 
-## Axioms
+# Foundation Principle
+
+Engineering knowledge must be:
+
+- Reproducible
+- Verifiable
+- Explainable
+- Evolvable
 
 ---
 
-## Laws
+The Foundation records discovered engineering knowledge.
 
----
-
-## Fundamental Entities
-
----
-
-## Engineering State
-
----
-
-## Engineering Transition
-
----
-
-## Governance
-
----
-
-## Discovery
-
----
-
-## Identity
-
----
-
-## Evolution
-
----
-
-## Appendix A — Glossary
-
----
-
-## Appendix B — Notation
+It does not record assumptions.
