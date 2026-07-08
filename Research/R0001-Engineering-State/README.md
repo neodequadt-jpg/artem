@@ -1,8 +1,8 @@
-# Research 0001
+# Research R0001
 
 Title
 
-Engineering State in Existing Engineering Disciplines
+Engineering State
 
 Status
 
@@ -10,29 +10,37 @@ Active
 
 ---
 
-Research Question
+## Question
 
-How is the concept of Engineering State represented across existing engineering disciplines?
-
----
-
-Objective
-
-Identify existing models.
-
-Compare them.
-
-Identify gaps.
-
-Determine whether ARTEM introduces genuinely new engineering concepts.
+What is an Engineering State?
 
 ---
 
-Expected Output
+## Objectives
+
+Study existing engineering disciplines.
+
+Study systems engineering.
+
+Study software engineering.
+
+Study DevOps.
+
+Study MBSE.
+
+Study PLM.
+
+Determine whether ARTEM introduces a genuinely new model.
+
+---
+
+## Deliverables
+
+Research Report
 
 RFC
 
-Foundation updates
+Foundation Updates
 
-Reference implementation
+Reference Examples
 
