@@ -1,5 +1,9 @@
 # ARTEM Charter
 
+**Language / Язык:**
+- 🇬🇧 [English](./CHARTER.md)
+- 🇷🇺 [Русский](./CHARTER.ru.md)
+
 Status: Active
 
 Version: 1.0
